@@ -1,3 +1,5 @@
 print("This is first python versioning with git")
 print("Python version controling with Git is very nice..")
 print("Very nice feature")
+print("Python programming is in-demand skill")
+print("Linux with Python is like superman")
